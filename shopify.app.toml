@@ -1,9 +1,9 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
-client_id = "345807df431aedc80af38c5c45ef2ecb"
-name = "My Awesome App"
-handle = "my-awesome-app-155"
-application_url = "https://my-awesome-project-e66af.web.app/app/"
+client_id = "88307059b603e009dcbfef679c05a4bd"
+name = "babeenioverstock: Custom App"
+handle = "babeeni-overstock-dev"
+application_url = "https://percentage-mailto-warming-rolls.trycloudflare.com/app/"
 embedded = true
 
 [build]
@@ -11,11 +11,11 @@ include_config_on_deploy = true
 
 [access_scopes]
 # Learn more at https://shopify.dev/docs/apps/tools/cli/configuration#access_scopes
-scopes = "read_products,write_products"
+scopes = "read_products,write_products,write_cart_transforms"
 
 [auth]
 redirect_urls = [
-  "https://my-awesome-project-e66af.web.app/api/auth/callback/"
+  "https://percentage-mailto-warming-rolls.trycloudflare.com/api/auth/callback/"
 ]
 
 [webhooks]
@@ -23,11 +23,11 @@ api_version = "2025-01"
 
 [[webhooks.subscriptions]]
 topics = ["app/uninstalled"]
-uri = "https://my-awesome-project-e66af.web.app/api/webhooks/"
+uri = "https://percentage-mailto-warming-rolls.trycloudflare.com/api/webhooks/"
 
 [app_proxy]
-url = "https://my-awesome-project-e66af.web.app/api/storefront/"
-subpath = "my-awesome-app-155"
+url = "https://percentage-mailto-warming-rolls.trycloudflare.com/api/storefront/"
+subpath = "babeeni-overstock-dev"
 prefix = "apps"
 
 [pos]
