@@ -16,7 +16,9 @@
           body: formData,
         }).finally(() => {
           if (location.pathname.startsWith('/cart')) {
-            location.reload();
+            setTimeout(() => {
+              location.reload();
+            }, 1000);
           } else {
             document.body.classList.add('p-load');
             clearInterval(interms);
