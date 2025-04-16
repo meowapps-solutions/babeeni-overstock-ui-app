@@ -19,7 +19,12 @@ const webhookHandlers: WebhookHandlersParam = {
   APP_UNINSTALLED: {
     deliveryMethod: DeliveryMethod.Http,
     callbackUrl: shopify.config.webhooks.path,
-    callback: async (_, shopDomain: string) => {
+    // eslint-disable-next-line max-len
+    callback: async (_topic, shopDomain: string, _body, webhookId: string) => {
+      if (webhookId === '73187ec3-d786-496b-9162-1d8a0bdd36d4') {
+        console.log(`Webhook ${webhookId} is not supported`);
+        return;
+      }
       await cookieStorage.deleteCookie(shopDomain);
       await fetch(`https://${SHOPIFY_APP_URL}/api/app/graphiql/carrier-service`, {
         method: 'DELETE',
