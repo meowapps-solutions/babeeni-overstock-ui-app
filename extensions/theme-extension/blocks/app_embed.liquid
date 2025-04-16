@@ -17,6 +17,9 @@
         }).finally(() => {
           if (location.pathname.startsWith('/cart')) {
             location.reload();
+          } else {
+            document.body.classList.add('p-load');
+            clearInterval(interms);
           }
         });
       } else {
