@@ -19,23 +19,7 @@ const webhookHandlers: WebhookHandlersParam = {
   APP_UNINSTALLED: {
     deliveryMethod: DeliveryMethod.Http,
     callbackUrl: shopify.config.webhooks.path,
-    callback: async (
-      topic: string,
-      shopDomain: string,
-      body: string,
-      webhookId: string,
-      apiVersion?: string,
-      subTopic?: string,
-      context?: any) => {
-      console.log({
-        topic,
-        shopDomain,
-        body,
-        webhookId,
-        apiVersion,
-        subTopic,
-        context,
-      });
+    callback: async (_, shopDomain: string) => {
       await cookieStorage.deleteCookie(shopDomain);
       await fetch(`https://${SHOPIFY_APP_URL}/api/app/graphiql/carrier-service`, {
         method: 'DELETE',
