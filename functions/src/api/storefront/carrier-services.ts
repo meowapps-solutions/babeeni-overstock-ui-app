@@ -36,7 +36,10 @@ export default (app: core.Express) => {
           service_name: zone.name,
           total_price: price * (100 + zone.additional_shipping_fee) / 100,
         };
-      }).filter((item) => item !== undefined);
+      }).filter((item) => item !== undefined) as {
+        service_name: string;
+        total_price: number;
+      }[];
       if (shippingRates.length === 0) {
         // eslint-disable-next-line max-len
         throw new Error(`Shipping rate not found for country: ${destinationCountry}`);

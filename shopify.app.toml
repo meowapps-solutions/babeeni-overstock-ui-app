@@ -1,8 +1,8 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
-client_id = "88307059b603e009dcbfef679c05a4bd"
+client_id = "e53a04b54ca6972910859a5edba1411d"
 name = "babeenioverstock: Custom App"
-handle = "babeeni-overstock-dev"
+handle = "bovs-custom-app"
 application_url = "https://somalia-noise-agencies-usually.trycloudflare.com/app/"
 embedded = true
 
@@ -27,7 +27,7 @@ uri = "https://somalia-noise-agencies-usually.trycloudflare.com/api/webhooks/"
 
 [app_proxy]
 url = "https://somalia-noise-agencies-usually.trycloudflare.com/api/storefront/"
-subpath = "babeeni-overstock-dev"
+subpath = "bovs-custom-app"
 prefix = "apps"
 
 [pos]
