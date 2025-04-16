@@ -3,7 +3,7 @@
 client_id = "88307059b603e009dcbfef679c05a4bd"
 name = "babeenioverstock: Custom App"
 handle = "babeeni-overstock-dev"
-application_url = "https://percentage-mailto-warming-rolls.trycloudflare.com/app/"
+application_url = "https://somalia-noise-agencies-usually.trycloudflare.com/app/"
 embedded = true
 
 [build]
@@ -11,11 +11,11 @@ include_config_on_deploy = true
 
 [access_scopes]
 # Learn more at https://shopify.dev/docs/apps/tools/cli/configuration#access_scopes
-scopes = "read_products,write_products,write_cart_transforms"
+scopes = "read_products,write_products,write_cart_transforms,read_shipping,write_shipping"
 
 [auth]
 redirect_urls = [
-  "https://percentage-mailto-warming-rolls.trycloudflare.com/api/auth/callback/"
+  "https://somalia-noise-agencies-usually.trycloudflare.com/api/auth/callback/"
 ]
 
 [webhooks]
@@ -23,10 +23,10 @@ api_version = "2025-01"
 
 [[webhooks.subscriptions]]
 topics = ["app/uninstalled"]
-uri = "https://percentage-mailto-warming-rolls.trycloudflare.com/api/webhooks/"
+uri = "https://somalia-noise-agencies-usually.trycloudflare.com/api/webhooks/"
 
 [app_proxy]
-url = "https://percentage-mailto-warming-rolls.trycloudflare.com/api/storefront/"
+url = "https://somalia-noise-agencies-usually.trycloudflare.com/api/storefront/"
 subpath = "babeeni-overstock-dev"
 prefix = "apps"
 

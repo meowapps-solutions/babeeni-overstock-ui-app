@@ -1,0 +1,29 @@
+query RunInput {
+  cart {
+    lotMerge: attribute(key: "_LotMerge") {
+      value
+    }
+    lines {
+      id
+      quantity
+      # updated: always true for babeenioverstock rules
+      # lotTitle: attribute(key: "_LotTitle") {
+      #   value
+      # }
+      lotImage: attribute(key: "_LotImage") {
+        value
+      }
+      merchandise {
+        __typename
+        ...on ProductVariant
+        {
+          id
+          product {
+            id
+            title
+          }
+        }
+      }
+    }
+  }
+}

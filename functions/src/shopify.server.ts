@@ -1,5 +1,6 @@
 import {shopifyApp} from '@shopify/shopify-app-express';
 import {Session, SessionParams} from '@shopify/shopify-api';
+import jwt from 'jsonwebtoken';
 import {
   SHOPIFY_API_KEY,
   SHOPIFY_API_SECRET,
@@ -49,5 +50,25 @@ const shopify = shopifyApp({
     path: '/api/webhooks/',
   },
 });
+
+export const getJwt = (shop: string, overrides = {}) =>{
+  const date = new Date();
+  const payload = {
+    iss: `${shop}/admin`,
+    dest: `https://${shop}`,
+    aud: SHOPIFY_API_KEY,
+    sub: 12345,
+    exp: date.getTime() / 1000 + 3600,
+    nbf: date.getTime() / 1000 - 3600,
+    iat: date.getTime() / 1000 - 3600,
+    jti: '1234567890',
+    sid: '0987654321',
+    ...overrides,
+  };
+  const token = jwt.sign(payload, SHOPIFY_API_SECRET, {
+    algorithm: 'HS256',
+  });
+  return {token, payload};
+};
 
 export default shopify;

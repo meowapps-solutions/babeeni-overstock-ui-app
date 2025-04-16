@@ -1,0 +1,1217 @@
+[
+  {
+    "title": "Africa",
+    "options": [
+      {
+        "label": "Algeria",
+        "value": "DZ",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/dz-CP5t3KQfKQHF.svg"
+      },
+      {
+        "label": "Angola",
+        "value": "AO",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ao-Cz4G0ILK1-cI.svg"
+      },
+      {
+        "label": "Ascension Island",
+        "value": "AC",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/fallback-MDv5V6ul4gaJ.svg"
+      },
+      {
+        "label": "Benin",
+        "value": "BJ",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/bj-CLF2dzQIxH4y.svg"
+      },
+      {
+        "label": "Botswana",
+        "value": "BW",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/bw-ClD3VxOqAx2V.svg"
+      },
+      {
+        "label": "British Indian Ocean Territory",
+        "value": "IO",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/io-BZD7xDKVhrxs.svg"
+      },
+      {
+        "label": "Burkina Faso",
+        "value": "BF",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/bf-UFmzBopEI9UP.svg"
+      },
+      {
+        "label": "Burundi",
+        "value": "BI",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/bi-C2S2ZHun41k-.svg"
+      },
+      {
+        "label": "Cameroon",
+        "value": "CM",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/cm-C3RxYTaSwrhL.svg"
+      },
+      {
+        "label": "Cape Verde",
+        "value": "CV",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/cv-ilQYsWVqcSRz.svg"
+      },
+      {
+        "label": "Central African Republic",
+        "value": "CF",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/cf-DDjcEB9UxO96.svg"
+      },
+      {
+        "label": "Chad",
+        "value": "TD",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/td-SJxMayPD0aFr.svg"
+      },
+      {
+        "label": "Comoros",
+        "value": "KM",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/km-AzKDvAf_vmlj.svg"
+      },
+      {
+        "label": "Congo - Brazzaville",
+        "value": "CG",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/cg-l-GXfw9VNXwM.svg"
+      },
+      {
+        "label": "Congo - Kinshasa",
+        "value": "CD",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/cd-1f9CfmwDcK8b.svg"
+      },
+      {
+        "label": "Côte d’Ivoire",
+        "value": "CI",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ci-DYzagfnRXH0L.svg"
+      },
+      {
+        "label": "Djibouti",
+        "value": "DJ",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/dj-CMkRaV9w7XSe.svg"
+      },
+      {
+        "label": "Egypt",
+        "value": "EG",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/eg-CTMekvvUmzdB.svg"
+      },
+      {
+        "label": "Equatorial Guinea",
+        "value": "GQ",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/gq-DsLt_giQTVd9.svg"
+      },
+      {
+        "label": "Eritrea",
+        "value": "ER",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/er-GCOTTxa_DrWd.svg"
+      },
+      {
+        "label": "Eswatini",
+        "value": "SZ",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/sz-D0BNmkP7FCG2.svg"
+      },
+      {
+        "label": "Ethiopia",
+        "value": "ET",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/et-KSh5XvtteZC3.svg"
+      },
+      {
+        "label": "French Southern Territories",
+        "value": "TF",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/tf-DHFGsmLOzrXo.svg"
+      },
+      {
+        "label": "Gabon",
+        "value": "GA",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ga-BQqL3B9DUrLi.svg"
+      },
+      {
+        "label": "Gambia",
+        "value": "GM",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/gm-DQKA5sIBPG3K.svg"
+      },
+      {
+        "label": "Ghana",
+        "value": "GH",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/gh-u8q88LNE48s-.svg"
+      },
+      {
+        "label": "Guinea",
+        "value": "GN",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/gn-B3qInJCuo_2Y.svg"
+      },
+      {
+        "label": "Guinea-Bissau",
+        "value": "GW",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/gw-B7fBUocT5BJV.svg"
+      },
+      {
+        "label": "Kenya",
+        "value": "KE",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ke-BmHkVwtNfWuG.svg"
+      },
+      {
+        "label": "Lesotho",
+        "value": "LS",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ls-ElcnZbJL0rDq.svg"
+      },
+      {
+        "label": "Liberia",
+        "value": "LR",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/lr-BkESDYVM2Bwl.svg"
+      },
+      {
+        "label": "Libya",
+        "value": "LY",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ly-AWgU6oFQ6tRT.svg"
+      },
+      {
+        "label": "Madagascar",
+        "value": "MG",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/mg-CgNyvXjocM-P.svg"
+      },
+      {
+        "label": "Malawi",
+        "value": "MW",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/mw-vX5_t2b4rOdv.svg"
+      },
+      {
+        "label": "Mali",
+        "value": "ML",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ml-CRVxghb_RHyf.svg"
+      },
+      {
+        "label": "Mauritania",
+        "value": "MR",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/mr-CzLbEa4l0Yph.svg"
+      },
+      {
+        "label": "Mauritius",
+        "value": "MU",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/mu-CPnlWc5P8VzW.svg"
+      },
+      {
+        "label": "Mayotte",
+        "value": "YT",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/bl-CtQQKLp3ZzwW.svg"
+      },
+      {
+        "label": "Morocco",
+        "value": "MA",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ma-C1dL7CTP90LN.svg"
+      },
+      {
+        "label": "Mozambique",
+        "value": "MZ",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/mz-4fXHR3rLS8Kw.svg"
+      },
+      {
+        "label": "Namibia",
+        "value": "NA",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/na-CA_9RoASc1BM.svg"
+      },
+      {
+        "label": "Niger",
+        "value": "NE",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ne-DFfTuq-3AR-F.svg"
+      },
+      {
+        "label": "Nigeria",
+        "value": "NG",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ng-CeFSaW46NMNJ.svg"
+      },
+      {
+        "label": "Réunion",
+        "value": "RE",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/bl-CtQQKLp3ZzwW.svg"
+      },
+      {
+        "label": "Rwanda",
+        "value": "RW",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/rw-BDqSeuFoNbOO.svg"
+      },
+      {
+        "label": "São Tomé & Príncipe",
+        "value": "ST",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/st-BBCn7U-77l4z.svg"
+      },
+      {
+        "label": "Senegal",
+        "value": "SN",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/sn-ZnaHG9stu86x.svg"
+      },
+      {
+        "label": "Seychelles",
+        "value": "SC",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/sc-SwHozwwg2J_Q.svg"
+      },
+      {
+        "label": "Sierra Leone",
+        "value": "SL",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/sl-DFiNrLnobUlX.svg"
+      },
+      {
+        "label": "Somalia",
+        "value": "SO",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/so-DAFxz84h1Gs_.svg"
+      },
+      {
+        "label": "South Africa",
+        "value": "ZA",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/za-LaAgL4izGH17.svg"
+      },
+      {
+        "label": "South Sudan",
+        "value": "SS",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ss-BNcHmljMHlX1.svg"
+      },
+      {
+        "label": "St. Helena",
+        "value": "SH",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/sh-CFG-OHSs2kWg.svg"
+      },
+      {
+        "label": "Sudan",
+        "value": "SD",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/sd-D0bnztWhu3YE.svg"
+      },
+      {
+        "label": "Tanzania",
+        "value": "TZ",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/tz--TDymEHvG3hf.svg"
+      },
+      {
+        "label": "Togo",
+        "value": "TG",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/tg-BaW4W_OgKY-b.svg"
+      },
+      {
+        "label": "Tristan da Cunha",
+        "value": "TA",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/fallback-MDv5V6ul4gaJ.svg"
+      },
+      {
+        "label": "Tunisia",
+        "value": "TN",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/tn-Cfz5rGp-m4OA.svg"
+      },
+      {
+        "label": "Uganda",
+        "value": "UG",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ug-LmvsvPuDyUE0.svg"
+      },
+      {
+        "label": "Western Sahara",
+        "value": "EH",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/eh-CgCBjspvMYlv.svg"
+      },
+      {
+        "label": "Zambia",
+        "value": "ZM",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/zm-BU-XLGu_d0Iq.svg"
+      },
+      {
+        "label": "Zimbabwe",
+        "value": "ZW",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/zw-DTkOjUDXJ4c_.svg"
+      }
+    ]
+  },
+  {
+    "title": "Asia",
+    "options": [
+      {
+        "label": "Afghanistan",
+        "value": "AF",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/af-CtfYjyW9LCgm.svg"
+      },
+      {
+        "label": "Armenia",
+        "value": "AM",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/am-Bnwp8KEp8Pbu.svg"
+      },
+      {
+        "label": "Azerbaijan",
+        "value": "AZ",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/az-B_98FsNMxWG4.svg"
+      },
+      {
+        "label": "Bahrain",
+        "value": "BH",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/bh-BZMEExjJ0Vu_.svg"
+      },
+      {
+        "label": "Bangladesh",
+        "value": "BD",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/bd-CqasGyYYCggT.svg"
+      },
+      {
+        "label": "Bhutan",
+        "value": "BT",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/bt-BGF_oxlljfv2.svg"
+      },
+      {
+        "label": "Brunei",
+        "value": "BN",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/bn-DZwXaeEEU2yw.svg"
+      },
+      {
+        "label": "Cambodia",
+        "value": "KH",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/kh-CH4Gl5R47NPc.svg"
+      },
+      {
+        "label": "China",
+        "value": "CN",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/cn-JoknfU_Z3r-X.svg"
+      },
+      {
+        "label": "Cyprus",
+        "value": "CY",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/cy-B3SuHvcYRYuq.svg"
+      },
+      {
+        "label": "Georgia",
+        "value": "GE",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ge-p2goQqNKHn3i.svg"
+      },
+      {
+        "label": "Hong Kong SAR China",
+        "value": "HK",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/hk-DQKxLB8pP9Di.svg"
+      },
+      {
+        "label": "India",
+        "value": "IN",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/in-5QH_r_CK76bz.svg"
+      },
+      {
+        "label": "Indonesia",
+        "value": "ID",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/id-BEoOSM93Z6xJ.svg"
+      },
+      {
+        "label": "Iraq",
+        "value": "IQ",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/iq-De6Ewn5cRC8X.svg"
+      },
+      {
+        "label": "Israel",
+        "value": "IL",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/il-D-ILqwhlXB0V.svg"
+      },
+      {
+        "label": "Japan",
+        "value": "JP",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/jp-CTWEPhDVJxi7.svg"
+      },
+      {
+        "label": "Jordan",
+        "value": "JO",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/jo-0sMGChsBiPK9.svg"
+      },
+      {
+        "label": "Kazakhstan",
+        "value": "KZ",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/kz-BT1OaOdLalrm.svg"
+      },
+      {
+        "label": "Kuwait",
+        "value": "KW",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/kw-BO1mln6214L7.svg"
+      },
+      {
+        "label": "Kyrgyzstan",
+        "value": "KG",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/kg-CBH-JE5xBb-X.svg"
+      },
+      {
+        "label": "Laos",
+        "value": "LA",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/la-rnjudWq-ueyL.svg"
+      },
+      {
+        "label": "Lebanon",
+        "value": "LB",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/lb-CxZCHG_M8Eke.svg"
+      },
+      {
+        "label": "Macau SAR China",
+        "value": "MO",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/mo-BP56VUvAlto2.svg"
+      },
+      {
+        "label": "Malaysia",
+        "value": "MY",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/my-z_EhColiAS7U.svg"
+      },
+      {
+        "label": "Maldives",
+        "value": "MV",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/mv-Dyyvar1ZL6gR.svg"
+      },
+      {
+        "label": "Mongolia",
+        "value": "MN",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/mn-DXeA6lf_IqGs.svg"
+      },
+      {
+        "label": "Myanmar (Burma)",
+        "value": "MM",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/mm-Dx3NCp5622Fx.svg"
+      },
+      {
+        "label": "Nepal",
+        "value": "NP",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/np-DkF1GtKge3kE.svg"
+      },
+      {
+        "label": "Oman",
+        "value": "OM",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/om-C4vZ-U9JJYUa.svg"
+      },
+      {
+        "label": "Pakistan",
+        "value": "PK",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/pk-C6GKfae7SBqL.svg"
+      },
+      {
+        "label": "Palestinian Territories",
+        "value": "PS",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ps-KD9ygNdeZGN0.svg"
+      },
+      {
+        "label": "Philippines",
+        "value": "PH",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ph-vgKMQDRt8t-c.svg"
+      },
+      {
+        "label": "Qatar",
+        "value": "QA",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/qa-Cqom2Li1Tgvm.svg"
+      },
+      {
+        "label": "Saudi Arabia",
+        "value": "SA",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/sa-BffmUi_65BhO.svg"
+      },
+      {
+        "label": "Singapore",
+        "value": "SG",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/sg-BiKhZrv6VC3K.svg"
+      },
+      {
+        "label": "South Korea",
+        "value": "KR",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/kr-Dnmw_cNMqEST.svg"
+      },
+      {
+        "label": "Sri Lanka",
+        "value": "LK",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/lk-B4kmUCxlnvSO.svg"
+      },
+      {
+        "label": "Taiwan",
+        "value": "TW",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/tw-DXv_yiAEx0Fa.svg"
+      },
+      {
+        "label": "Tajikistan",
+        "value": "TJ",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/tj-CVAysDii49JK.svg"
+      },
+      {
+        "label": "Thailand",
+        "value": "TH",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/th-QrJN3bvwt57Y.svg"
+      },
+      {
+        "label": "Timor-Leste",
+        "value": "TL",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/tl-CcIgU-3vCYff.svg"
+      },
+      {
+        "label": "Turkey",
+        "value": "TR",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/tr-4MQg98DqZUZJ.svg"
+      },
+      {
+        "label": "Turkmenistan",
+        "value": "TM",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/tm-Qd9z-Egt_zQj.svg"
+      },
+      {
+        "label": "United Arab Emirates",
+        "value": "AE",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ae-CSwq5reQPWt0.svg"
+      },
+      {
+        "label": "Uzbekistan",
+        "value": "UZ",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/uz-TWV0iXMiWYV1.svg"
+      },
+      {
+        "label": "Vietnam",
+        "value": "VN",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/vn-DvVe8i2OgIZw.svg"
+      },
+      {
+        "label": "Yemen",
+        "value": "YE",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ye-Banj2_lWpnLc.svg"
+      }
+    ]
+  },
+  {
+    "title": "Europe",
+    "options": [
+      {
+        "label": "Åland Islands",
+        "value": "AX",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ax-BzARwTbfWESz.svg"
+      },
+      {
+        "label": "Albania",
+        "value": "AL",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/al-BipLuVbn5TNv.svg"
+      },
+      {
+        "label": "Andorra",
+        "value": "AD",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ad-BAueQZQ7FMId.svg"
+      },
+      {
+        "label": "Austria",
+        "value": "AT",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/at-34JrX3vVTWwR.svg"
+      },
+      {
+        "label": "Belarus",
+        "value": "BY",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/by-D1vCEx0eJJs4.svg"
+      },
+      {
+        "label": "Belgium",
+        "value": "BE",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/be-v5MaJti7JEua.svg"
+      },
+      {
+        "label": "Bosnia & Herzegovina",
+        "value": "BA",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ba-C7a1xQTLb05n.svg"
+      },
+      {
+        "label": "Bulgaria",
+        "value": "BG",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/bg-BnCGz7CyHZHy.svg"
+      },
+      {
+        "label": "Croatia",
+        "value": "HR",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/hr-rCBb7Lb5Y7I0.svg"
+      },
+      {
+        "label": "Czech Republic",
+        "value": "CZ",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/cz-CCEdEuzi8cAR.svg"
+      },
+      {
+        "label": "Denmark",
+        "value": "DK",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/dk-CuxTe9FbAjsv.svg"
+      },
+      {
+        "label": "Estonia",
+        "value": "EE",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ee-CYfy3sgDeGvi.svg"
+      },
+      {
+        "label": "Faroe Islands",
+        "value": "FO",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/fo-bj0gQ8-Y8WjH.svg"
+      },
+      {
+        "label": "Finland",
+        "value": "FI",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/fi-ql-MnHJYvAfk.svg"
+      },
+      {
+        "label": "France",
+        "value": "FR",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/fr-CvJDduywicne.svg"
+      },
+      {
+        "label": "Germany",
+        "value": "DE",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/de-QIkpdT_kUNZ6.svg"
+      },
+      {
+        "label": "Gibraltar",
+        "value": "GI",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/gi-CDZUSDLVpkKK.svg"
+      },
+      {
+        "label": "Greece",
+        "value": "GR",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/gr-BfBZdHv1jcLj.svg"
+      },
+      {
+        "label": "Guernsey",
+        "value": "GG",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/gg-CRObib7OZb29.svg"
+      },
+      {
+        "label": "Hungary",
+        "value": "HU",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/hu-DeLqwUS30SR-.svg"
+      },
+      {
+        "label": "Iceland",
+        "value": "IS",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/is-DEWi2QFDXZHH.svg"
+      },
+      {
+        "label": "Ireland",
+        "value": "IE",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ie-CL2bapxvVt-K.svg"
+      },
+      {
+        "label": "Isle of Man",
+        "value": "IM",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/im-pEB6D7i7fdr6.svg"
+      },
+      {
+        "label": "Italy",
+        "value": "IT",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/it-19TCnoAF0Naq.svg"
+      },
+      {
+        "label": "Jersey",
+        "value": "JE",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/je-BmOZ2BCgp0nD.svg"
+      },
+      {
+        "label": "Kosovo",
+        "value": "XK",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/xk-ByMsBiQMCyOo.svg"
+      },
+      {
+        "label": "Latvia",
+        "value": "LV",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/lv-2Vvuo0hfbac4.svg"
+      },
+      {
+        "label": "Liechtenstein",
+        "value": "LI",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/li-DPgm9e3bOpIm.svg"
+      },
+      {
+        "label": "Lithuania",
+        "value": "LT",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/lt-B8g37z5VHFpO.svg"
+      },
+      {
+        "label": "Luxembourg",
+        "value": "LU",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/lu-CbU5hMlUhTnC.svg"
+      },
+      {
+        "label": "Macedonia",
+        "value": "MK",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/mk-C0VgXr7aV74p.svg"
+      },
+      {
+        "label": "Malta",
+        "value": "MT",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/mt-OqUS3o7fDGH2.svg"
+      },
+      {
+        "label": "Moldova",
+        "value": "MD",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/md-gJu3QvjKv0u9.svg"
+      },
+      {
+        "label": "Monaco",
+        "value": "MC",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/mc-HF-hWSt2QotU.svg"
+      },
+      {
+        "label": "Montenegro",
+        "value": "ME",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/me-9tBK-mKT__M3.svg"
+      },
+      {
+        "label": "Netherlands",
+        "value": "NL",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/nl-BElUYFU_o-Oc.svg"
+      },
+      {
+        "label": "Norway",
+        "value": "NO",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/no-BeK60oyVXJun.svg"
+      },
+      {
+        "label": "Poland",
+        "value": "PL",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/pl-BSwUsS6To8z0.svg"
+      },
+      {
+        "label": "Portugal",
+        "value": "PT",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/pt-CauU9mq_6CmM.svg"
+      },
+      {
+        "label": "Romania",
+        "value": "RO",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ro-C4aDxciVwXc1.svg"
+      },
+      {
+        "label": "Russia",
+        "value": "RU",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ru-DR6aj0J9lf8x.svg"
+      },
+      {
+        "label": "San Marino",
+        "value": "SM",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/sm-CZ7yvRSM4GMs.svg"
+      },
+      {
+        "label": "Serbia",
+        "value": "RS",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/rs-BfZ0DQOMxRDD.svg"
+      },
+      {
+        "label": "Slovakia",
+        "value": "SK",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/sk-CklkPFGI9_uI.svg"
+      },
+      {
+        "label": "Slovenia",
+        "value": "SI",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/si-B7YmLrpfYKU4.svg"
+      },
+      {
+        "label": "Spain",
+        "value": "ES",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/es-BoXRvdlCIbmz.svg"
+      },
+      {
+        "label": "Svalbard & Jan Mayen",
+        "value": "SJ",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/sj-DSDNubTcH5f6.svg"
+      },
+      {
+        "label": "Sweden",
+        "value": "SE",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/se-DmscRB-FJTvf.svg"
+      },
+      {
+        "label": "Switzerland",
+        "value": "CH",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ch-BZzdDlUsZzKh.svg"
+      },
+      {
+        "label": "Ukraine",
+        "value": "UA",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ua-DYYFmtT2mZMk.svg"
+      },
+      {
+        "label": "United Kingdom",
+        "value": "GB",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/gb-CbvrkR0jozYb.svg"
+      },
+      {
+        "label": "Vatican City",
+        "value": "VA",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/va-HKheKEUQxUsU.svg"
+      }
+    ]
+  },
+  {
+    "title": "North America",
+    "options": [
+      {
+        "label": "Anguilla",
+        "value": "AI",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ai-BjjnBUtnfelQ.svg"
+      },
+      {
+        "label": "Antigua & Barbuda",
+        "value": "AG",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ag-CJw2o7HWAwF0.svg"
+      },
+      {
+        "label": "Aruba",
+        "value": "AW",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/aw-D4y0Cz9Vw_9S.svg"
+      },
+      {
+        "label": "Bahamas",
+        "value": "BS",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/bs-CXKpHGk-CLqw.svg"
+      },
+      {
+        "label": "Barbados",
+        "value": "BB",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/bb-mIgPTqCXIJS8.svg"
+      },
+      {
+        "label": "Belize",
+        "value": "BZ",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/bz-BXMadMfG-sOY.svg"
+      },
+      {
+        "label": "Bermuda",
+        "value": "BM",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/bm-owP27Je_E3th.svg"
+      },
+      {
+        "label": "British Virgin Islands",
+        "value": "VG",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/vg-Disph98HnHmc.svg"
+      },
+      {
+        "label": "Canada",
+        "value": "CA",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ca-BmTmRgSp4koy.svg"
+      },
+      {
+        "label": "Caribbean Netherlands",
+        "value": "BQ",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/bq-CLg4X62ZRe4D.svg"
+      },
+      {
+        "label": "Cayman Islands",
+        "value": "KY",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ky-0OoJcNUrmHq2.svg"
+      },
+      {
+        "label": "Costa Rica",
+        "value": "CR",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/cr-CyQxjSrva0l_.svg"
+      },
+      {
+        "label": "Curaçao",
+        "value": "CW",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/cw-C52PGJ8eYA2B.svg"
+      },
+      {
+        "label": "Dominica",
+        "value": "DM",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/dm-B4yD1K3JSKtv.svg"
+      },
+      {
+        "label": "Dominican Republic",
+        "value": "DO",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/do-BL75qdD4Dr-m.svg"
+      },
+      {
+        "label": "El Salvador",
+        "value": "SV",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/sv-IhUWuI9F4oLi.svg"
+      },
+      {
+        "label": "Greenland",
+        "value": "GL",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/gl-VFSi-r-68OtV.svg"
+      },
+      {
+        "label": "Grenada",
+        "value": "GD",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/gd-Drjl2PnwNoxp.svg"
+      },
+      {
+        "label": "Guadeloupe",
+        "value": "GP",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/fr-CvJDduywicne.svg"
+      },
+      {
+        "label": "Guatemala",
+        "value": "GT",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/gt-DwIh7i-ap9BJ.svg"
+      },
+      {
+        "label": "Haiti",
+        "value": "HT",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ht-DnizvfU744NV.svg"
+      },
+      {
+        "label": "Honduras",
+        "value": "HN",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/hn-DZdvEQLGEiQk.svg"
+      },
+      {
+        "label": "Jamaica",
+        "value": "JM",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/jm-BcM9ggJJKx3f.svg"
+      },
+      {
+        "label": "Martinique",
+        "value": "MQ",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/mq-C2VGCknWaEDs.svg"
+      },
+      {
+        "label": "Mexico",
+        "value": "MX",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/mx-Dwc05L0IlS4k.svg"
+      },
+      {
+        "label": "Montserrat",
+        "value": "MS",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ms-DQq3DqCJn3y9.svg"
+      },
+      {
+        "label": "Nicaragua",
+        "value": "NI",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ni-DEDmWwU_ULET.svg"
+      },
+      {
+        "label": "Panama",
+        "value": "PA",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/pa-DPtQXZxtY4SM.svg"
+      },
+      {
+        "label": "Saint Martin",
+        "value": "MF",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/sx-Dq7rz0SyIyQ9.svg"
+      },
+      {
+        "label": "St. Barthélemy",
+        "value": "BL",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/bl-CtQQKLp3ZzwW.svg"
+      },
+      {
+        "label": "St. Kitts & Nevis",
+        "value": "KN",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/kn-BnF1EbktrcBj.svg"
+      },
+      {
+        "label": "St. Lucia",
+        "value": "LC",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/lc-C6-ufBBEyCgU.svg"
+      },
+      {
+        "label": "St. Martin",
+        "value": "MF",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/fr-CvJDduywicne.svg"
+      },
+      {
+        "label": "St. Pierre & Miquelon",
+        "value": "PM",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/bl-CtQQKLp3ZzwW.svg"
+      },
+      {
+        "label": "St. Vincent & Grenadines",
+        "value": "VC",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/vc-Df4zUfLTM_yn.svg"
+      },
+      {
+        "label": "Trinidad & Tobago",
+        "value": "TT",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/tt-B9Hbp_cZ8daR.svg"
+      },
+      {
+        "label": "Turks & Caicos Islands",
+        "value": "TC",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/tc-DfShzjGjCh0_.svg"
+      },
+      {
+        "label": "United States",
+        "value": "US",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/us-YZEEIF9XYc5z.svg"
+      }
+    ]
+  },
+  {
+    "title": "Oceania",
+    "options": [
+      {
+        "label": "Australia",
+        "value": "AU",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/au-XTK0rcAbsS1K.svg"
+      },
+      {
+        "label": "Christmas Island",
+        "value": "CX",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/cx-Cc_JSwVUHD8T.svg"
+      },
+      {
+        "label": "Cocos (Keeling) Islands",
+        "value": "CC",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/cc-B0KcFz6YNJ9l.svg"
+      },
+      {
+        "label": "Cook Islands",
+        "value": "CK",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ck-BO0vbk-DzsNc.svg"
+      },
+      {
+        "label": "Fiji",
+        "value": "FJ",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/fj-DSBdLQz2eAs0.svg"
+      },
+      {
+        "label": "French Polynesia",
+        "value": "PF",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/pf-BPRqB5756bbZ.svg"
+      },
+      {
+        "label": "Kiribati",
+        "value": "KI",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ki-BVyzQkTTzaUB.svg"
+      },
+      {
+        "label": "Nauru",
+        "value": "NR",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/nr-CHC0Wbp_WwAW.svg"
+      },
+      {
+        "label": "New Caledonia",
+        "value": "NC",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/bl-CtQQKLp3ZzwW.svg"
+      },
+      {
+        "label": "New Zealand",
+        "value": "NZ",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/nz-CDyIOIlN26V_.svg"
+      },
+      {
+        "label": "Niue",
+        "value": "NU",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/nu-CE2Lz4I6zIll.svg"
+      },
+      {
+        "label": "Norfolk Island",
+        "value": "NF",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/nf-D4FcPRNmDZFa.svg"
+      },
+      {
+        "label": "Papua New Guinea",
+        "value": "PG",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/pg-CJFLyGg7M3vB.svg"
+      },
+      {
+        "label": "Pitcairn Islands",
+        "value": "PN",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/pn-hZZabwZGNFHQ.svg"
+      },
+      {
+        "label": "Samoa",
+        "value": "WS",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ws-D-fWLSWyGXgD.svg"
+      },
+      {
+        "label": "Solomon Islands",
+        "value": "SB",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/sb-CVVrg21nUn82.svg"
+      },
+      {
+        "label": "Tokelau",
+        "value": "TK",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/tk-CyLOtC5svrUz.svg"
+      },
+      {
+        "label": "Tonga",
+        "value": "TO",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/to-BzIVEtESTlz5.svg"
+      },
+      {
+        "label": "Tuvalu",
+        "value": "TV",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/tv-Bz0AzNGq1rgg.svg"
+      },
+      {
+        "label": "U.S. Outlying Islands",
+        "value": "UM",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/us-YZEEIF9XYc5z.svg"
+      },
+      {
+        "label": "Vanuatu",
+        "value": "VU",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/vu-NsnrZXG3Az57.svg"
+      },
+      {
+        "label": "Wallis & Futuna",
+        "value": "WF",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/fr-CvJDduywicne.svg"
+      }
+    ]
+  },
+  {
+    "title": "South America",
+    "options": [
+      {
+        "label": "Argentina",
+        "value": "AR",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ar-CXZaB8crrpsi.svg"
+      },
+      {
+        "label": "Bolivia",
+        "value": "BO",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/bo-BnXEVVPZ-Jz7.svg"
+      },
+      {
+        "label": "Brazil",
+        "value": "BR",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/br-DQKU8KoTeNwo.svg"
+      },
+      {
+        "label": "Chile",
+        "value": "CL",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/cl-Cw9NR8cLp8Vn.svg"
+      },
+      {
+        "label": "Colombia",
+        "value": "CO",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/co-CTEUF9PJZeep.svg"
+      },
+      {
+        "label": "Ecuador",
+        "value": "EC",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ec-HhpxILaX0fXr.svg"
+      },
+      {
+        "label": "Falkland Islands",
+        "value": "FK",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/fk-DBAk-mvDWHUU.svg"
+      },
+      {
+        "label": "French Guiana",
+        "value": "GF",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/gf-eepjRsnY4cYB.svg"
+      },
+      {
+        "label": "Guyana",
+        "value": "GY",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/gy-HDrnPHNIYdLd.svg"
+      },
+      {
+        "label": "Paraguay",
+        "value": "PY",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/py-BQeX8-Npw4mU.svg"
+      },
+      {
+        "label": "Peru",
+        "value": "PE",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/pe-piYHFy6VHHRJ.svg"
+      },
+      {
+        "label": "South Georgia & South Sandwich Islands",
+        "value": "GS",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/gs-C1usbzhjhpx5.svg"
+      },
+      {
+        "label": "Suriname",
+        "value": "SR",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/sr-Bumzb0EnIkXm.svg"
+      },
+      {
+        "label": "Uruguay",
+        "value": "UY",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/uy-JRXPAtnElX8J.svg"
+      },
+      {
+        "label": "Venezuela",
+        "value": "VE",
+        "image": "https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/ve-Bv1d4YAd7bdQ.svg"
+      }
+    ]
+  }
+]

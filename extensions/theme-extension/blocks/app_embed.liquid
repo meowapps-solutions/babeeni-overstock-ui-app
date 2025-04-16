@@ -1,0 +1,35 @@
+<script>
+  const interms = setInterval(() => {
+    if (document.body) {
+      document.body.classList.remove('p-load');
+    }
+  }, 10);
+  fetch(window.Shopify.routes.root + 'cart.json')
+    .then((response) => response.json())
+    .then((data) => {
+      if (data.attributes?._LotMerge === 'yes') {
+        var formData = new FormData();
+        formData.append('attributes[_LotMerge]', 'undefined');
+
+        fetch(window.Shopify.routes.root + 'cart/update.js', {
+          method: 'POST',
+          body: formData,
+        }).finally(() => {
+          if (location.pathname.startsWith('/cart')) {
+            location.reload();
+          }
+        });
+      } else {
+        document.body.classList.add('p-load');
+        clearInterval(interms);
+      }
+    });
+</script>
+
+{% schema %}
+{
+  "name": "App Script",
+  "target": "head",
+  "settings": []
+}
+{% endschema %}

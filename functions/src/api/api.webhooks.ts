@@ -3,8 +3,11 @@ import {onRequest} from 'firebase-functions/v2/https';
 import {WebhookHandlersParam} from '@shopify/shopify-app-express';
 import {DeliveryMethod} from '@shopify/shopify-api';
 import express from 'express';
-import shopify from '../shopify.server';
+import shopify, {getJwt} from '../shopify.server';
 import {cookieStorage} from './api.auth';
+import {
+  SHOPIFY_APP_URL,
+} from '../../shopify.app.json';
 
 const app = express();
 
@@ -17,7 +20,14 @@ const webhookHandlers: WebhookHandlersParam = {
     deliveryMethod: DeliveryMethod.Http,
     callbackUrl: shopify.config.webhooks.path,
     callback: async (_, shopDomain: string) => {
+      console.log(shopDomain);
       await cookieStorage.deleteCookie(shopDomain);
+      await fetch(`https://${SHOPIFY_APP_URL}/api/app/graphiql/carrier-service`, {
+        method: 'DELETE',
+        headers: {
+          'Authorization': `Bearer ${getJwt(shopDomain).token}`,
+        },
+      });
     },
   },
 };

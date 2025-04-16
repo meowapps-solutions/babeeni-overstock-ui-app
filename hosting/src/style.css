@@ -1,0 +1,29 @@
+.Polaris-TextField__Input {
+  font-size: var(--p-font-size-325);
+  line-height: var(--p-font-line-height-500);
+  caret-color: var(--p-color-text);
+}
+
+.Polaris-Select__Input {
+  font-size: var(--p-font-size-325);
+  line-height: var(--p-font-line-height-500);
+}
+
+.Polaris-Select__Content {
+  line-height: var(--p-font-line-height-500);
+  font-size: var(--p-font-size-325);
+}
+
+.Polaris-TextField--disabled {
+  padding-right: 30px;
+}
+
+.Polaris-Button--sizeMicro.Polaris-Button--iconOnly {
+  min-width: 1rem;
+  min-height: 1rem;
+}
+
+.Polaris-Button--sizeMicro .Polaris-Icon {
+  height: 1rem;
+  width: 1rem;
+}

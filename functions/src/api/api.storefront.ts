@@ -1,12 +1,15 @@
 import {onRequest} from 'firebase-functions/v2/https';
 import express from 'express';
 import shopify, {sessionStorage} from '../shopify.server';
+import carrierServicesRoutes from './storefront/carrier-services';
 
 const app = express();
 
 app.use(async (req, res, next) => {
+  const origin = req.headers['origin'] || req.headers['referer'];
   const shop = req.query.shop as string ||
-    new URL(req.headers['origin'] || req.headers['referer'] || '').hostname;
+    req.headers['x-shopify-shop-domain'] as string ||
+    (origin ? new URL(origin).hostname : undefined);
 
   if (shop) {
     const sessions = await sessionStorage.findSessionsByShop(shop);
@@ -45,5 +48,7 @@ app.get('/api/storefront/', async (req, res) => {
     message: `Hello, ${response.data.shop.name}!`,
   });
 });
+
+carrierServicesRoutes(app);
 
 export default onRequest(app);
