@@ -3,7 +3,7 @@
 client_id = "e53a04b54ca6972910859a5edba1411d"
 name = "babeenioverstock: Custom App"
 handle = "bovs-custom-app"
-application_url = "https://somalia-noise-agencies-usually.trycloudflare.com/app/"
+application_url = "https://babeeni-26dc9.web.app/app/"
 embedded = true
 
 [build]
@@ -15,7 +15,7 @@ scopes = "read_products,write_products,write_cart_transforms,read_shipping,write
 
 [auth]
 redirect_urls = [
-  "https://somalia-noise-agencies-usually.trycloudflare.com/api/auth/callback/"
+  "https://babeeni-26dc9.web.app/api/auth/callback/"
 ]
 
 [webhooks]
@@ -23,10 +23,10 @@ api_version = "2025-01"
 
 [[webhooks.subscriptions]]
 topics = ["app/uninstalled"]
-uri = "https://somalia-noise-agencies-usually.trycloudflare.com/api/webhooks/"
+uri = "https://babeeni-26dc9.web.app/api/webhooks/"
 
 [app_proxy]
-url = "https://somalia-noise-agencies-usually.trycloudflare.com/api/storefront/"
+url = "https://babeeni-26dc9.web.app/api/storefront/"
 subpath = "bovs-custom-app"
 prefix = "apps"
 
